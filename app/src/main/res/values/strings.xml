@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">composej</string>
+    <string name="title_activity_text_veiw">textVeiw</string>
+    <string name="title_activity_text_view">TextView</string>
+</resources>
